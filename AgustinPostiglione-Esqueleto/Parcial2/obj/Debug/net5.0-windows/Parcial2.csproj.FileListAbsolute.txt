@@ -1,0 +1,5 @@
+D:\AgustinPostiglione-Esqueleto\Parcial2\obj\Debug\net5.0-windows\Parcial2.csproj.AssemblyReference.cache
+D:\AgustinPostiglione-Esqueleto\Parcial2\obj\Debug\net5.0-windows\Parcial2.GeneratedMSBuildEditorConfig.editorconfig
+D:\AgustinPostiglione-Esqueleto\Parcial2\obj\Debug\net5.0-windows\Parcial2.AssemblyInfoInputs.cache
+D:\AgustinPostiglione-Esqueleto\Parcial2\obj\Debug\net5.0-windows\Parcial2.AssemblyInfo.cs
+D:\AgustinPostiglione-Esqueleto\Parcial2\obj\Debug\net5.0-windows\Parcial2.csproj.CoreCompileInputs.cache
